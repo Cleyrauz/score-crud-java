@@ -7,7 +7,9 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- * Hello world!
+ * CRUD app for Score Management
+ *
+ * By Cleyra Uzcategui
  *
  */
 public class App
